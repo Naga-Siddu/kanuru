@@ -1,0 +1,27 @@
+<html>
+    <head>
+
+    </head>
+    <body><fieldset>
+        <h1><center><font color="red"> SIDDU RESTURUANT </font> </h1>
+            <p><center>WWW.SIDDURESTURANT.IN</center></p>
+            <img src="./siddu/H5_Restaurant-Listicle.jpg" height="500" width="800"><center>
+            <p><font color="purple" font size="5.5">Appetiziers :-</font></p>
+            
+                <li>Chicken Lol Pop -----------------$250(3 pcs)</li><br>
+               <li> Chicken tandoori kebab ---------$300(6 pcs)</li><br>
+               <li> chicken kshatriya kebab ---------$300(3 pcs)</li><br>
+               <li> Chicken tandoori kebab ---------$900(3 pcs)</li><br>
+               <li> chicken thangadi kebab ---------$1200(6 pcs)</li><br>
+               <li> chicken kulifi ---------------------$300(6 pcs)</li><br>
+               <p> <font size="5.5"> NON VEG BIRIYANI'S :- </font></p>
+               <li> Chicken Dum Biriyani  -----------$300</li><br>
+               <li> Mutton Dum Biriyani  ------------$300</li><br>
+               <li> Mixied Dum Biriyani  ------------$300</li><br>
+               <li> Egg Roast Biriyani  ---------------$300</li><br>
+               <li> Chicken roast Biriyani  -----------$300</li><br>
+               <li> Frawns Dum Biriyani  ------------$300</li><br>
+               <li> Fish Biriyani  -----------------------$300</li><br>
+               <p><center> THANK YOU VISIT AGIAN</p>
+    </body>
+</html>

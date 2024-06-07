@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <details>
+        <summary>naga siddu</summary> 
+<img src="./happy-birthday-to-suriya_b_2307231253.jpg"height="100"width="100">
+<img src="./download (1).jpeg"height="100"width="100">
+<img src="./images (1).jpeg"height="100"width="100">
+<img src="./images (2).jpeg"height="100"width="100">
+<img src="./images.jpeg"height="100"width="100">
+    </details>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+</head>
+<body>
+    <iframe src="./WhatsApp Image 2024-05-26 at 3.41.28 PM.jpeg" frameborder="0" name="siddu" width="150px" height="150px"></iframe>
+    <p><a href="./summary.html" target="naga siddu">click</a>
+</body>
+</html>
